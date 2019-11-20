@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestGBKSoft</string>
+    <string name="title_list">Список</string>
+    <string name="title_map">Карта</string>
+    <string name="title_account">Профиль</string>
+
+    <string name="list_empty">Пока нет ни одной точки</string>
+
+    <string name="log_out">Выход</string>
+
+
+    <string name="questions_title_attention">Внимание</string>
+    <string name="questions_title_info">Инфо</string>
+    <string name="questions_answer_yes">Да</string>
+    <string name="questions_answer_save">Сохранить</string>
+    <string name="questions_answer_no">Нет</string>
+    <string name="questions_answer_cancel">Отменить</string>
+    <string name="questions_answer_ok">Ок</string>
+    <string name="questions_title_question">Вопрос</string>
+    <string name="error_field_required">Эти данные являются обязательными</string>
+
+    <string name="name">Название</string>
+
+
+</resources>

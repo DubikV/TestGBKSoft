@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "586326585050",
+    "firebase_url": "https://testgbksoft-8a67d.firebaseio.com",
+    "project_id": "testgbksoft-8a67d",
+    "storage_bucket": "testgbksoft-8a67d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586326585050:android:f5f88d412c138dfed0ffe3",
+        "android_client_info": {
+          "package_name": "com.gmail.all.vanyadubik.testgbksoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586326585050-a1brg78lcf2l4dhapgrpfd76u1vthecr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.all.vanyadubik.testgbksoft",
+            "certificate_hash": "ddd07b069bdee21e30c65029b793718156ebc144"
+          }
+        },
+        {
+          "client_id": "586326585050-sdi56hh3fkqmed62ie6lbsq4tlkd8vqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.all.vanyadubik.testgbksoft",
+            "certificate_hash": "fbdc0cfab87e04cc1184a963bca862093f1534c9"
+          }
+        },
+        {
+          "client_id": "586326585050-tarfied2nm5fiaj3r2gks56uh8pn6vr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaT05FTR82onFQ1eVaAiwsDTx439jGbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586326585050-tarfied2nm5fiaj3r2gks56uh8pn6vr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
